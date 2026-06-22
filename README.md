@@ -1,3 +1,3 @@
 **-Hobbyist developer.**
 
-**-Interested in React and compiler development.**
+**-Interested in CLI tools development.**
